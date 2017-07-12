@@ -1,0 +1,19 @@
+
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE29FD10",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 27.0822850,
+    "ref_longitude": 26.4502592,
+    "ref_altitude": 1800,
+    "contact_email": "johann.vn@nerospec.com",
+    "description": "TTN-NERO"
+  }
+}
